@@ -1,6 +1,6 @@
 # Site
 repository: caleblareau/caleblareau.github.io
-favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+favicon: images/favicon_ico
 
 # Content configuration version
 version: 2
@@ -8,12 +8,12 @@ version: 2
 # Personal info
 name: Caleb Lareau, PhD
 title: Stanford Science Fellow
-email: clareau@stanford.edu
+#email: clareau@stanford.edu
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-website: https://profiles.stanford.edu/caleb-lareau
-website_title: Stanford Profile
+#website: https://profiles.stanford.edu/caleb-lareau
+#website_title: Stanford Profile
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -50,7 +50,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/off.jpg)
+about_profile_image: images/off.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
