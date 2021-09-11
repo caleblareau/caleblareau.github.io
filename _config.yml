@@ -59,6 +59,31 @@ about_content: | # this will include new lines to allow paragraphs
  of immunotherapies. A complete [CV is available here](https://cap.stanford.edu/profiles/viewCV?facultyId=241457&name=Caleb_Lareau).
 
 content:
+  - title: Education
+    layout: list
+    content:
+      - layout: top-left
+        title: Doctor of Philosophy
+        sub_title: Division of Medical Sciences
+        caption: Harvard University, May 2020
+        quote: >
+           
+        description: | # this will include new lines to allow paragraphs
+    - layout: top-left
+        title: Master of Arts
+        sub_title: Biostatistics
+        caption: Harvard University, May 2017
+        quote: >
+           
+        description: | # this will include new lines to allow paragraphs
+    - layout: top-left
+        title: Bachelor of Science, _summa cum laude_
+        sub_title: Biochemistry, Mathematics
+        caption: University of Tulsa, May 2015
+        quote: >
+           
+        description: | # this will include new lines to allow paragraphs
+           
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -89,17 +114,7 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
-  - title: Education
-    layout: list
-    content:
-      - layout: top-left
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+
   - title: In the news
     layout: text
     content: | # this will include new lines to allow paragraphs
