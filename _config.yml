@@ -6,7 +6,7 @@ favicon: images/favicon_ico
 version: 2
 
 # Personal info
-name: Caleb Lareau, PhD
+name: Caleb Lareau
 title: Stanford Science Fellow
 email: clareau@stanford.edu
 email_title: Contact
@@ -35,7 +35,7 @@ orcid_username: 0000-0003-4179-4807
 
 # Additional icon links
 additional_links:
-- title: Scholar
+- title: Google Scholar
   icon: fab fa-google
   url: https://scholar.google.com/citations?user=e_8eOmYAAAAJ&hl=en&inst=5746887945952177237&oi=ao
 # - title: another link
@@ -49,16 +49,17 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
-about_profile_image: images/off.jpeg
+about_title: About
+about_profile_image: images/on.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  Experience
+    * Lists
+    * Tables
+    * <a href="google.com">Links</a>
+    * Bachelor's Degree, _summa cum laude_
+     * University of Tulsa, 2011-2015
 
 content:
   - title: Projects # Title for the section
