@@ -88,7 +88,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: top-left
         title: Institution name
         sub_title: Qualifications (eg. BA Performing Arts)
         caption: Date Range (eg. 2016 - 2019)
@@ -99,10 +99,10 @@ content:
   - title: In the news
     layout: text
     content: | # this will include new lines to allow paragraphs
-      @icn-camera try 1
-      @fa-newspaper try 2
-      @icn-newspaper try 3
-      @icon-info-circle try 4
+      icon: fab fa-twitter try 1
+      
+      fab fa-twitter try 2
+      
 
 
 # Footer
