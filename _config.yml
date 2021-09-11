@@ -36,7 +36,7 @@ linkedin_username: caleblareau
 # Additional icon links
 additional_links:
 - title: Google Scholar
-  icon: fab fa-graduation-cap
+  icon: fas fa-graduation-cap
   url: https://scholar.google.com/citations?user=e_8eOmYAAAAJ&hl=en&inst=5746887945952177237&oi=ao
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
@@ -52,7 +52,11 @@ additional_links:
 about_title: About
 about_profile_image: images/on.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  <mark>like this</mark>
+ I am currently a <mark>Stanford Science Fellow</mark> in the School of Medicine at Stanford University and a <mark>Parker Scholars</mark> at 
+ the Parker Institute of Cancer Immunotherapy. My research concerns the development and application of single-cell
+ technologies to inform properties of human physiology, including the somatic changes in tissues and the dynamics of 
+ immune cells within the tumor microenvironment. I am particularly interested in studying and increasing the efficacy
+ of immunotherapies. A complete [CV is available here](https://cap.stanford.edu/profiles/viewCV?facultyId=241457&name=Caleb_Lareau).
 
 content:
   - title: Projects # Title for the section
