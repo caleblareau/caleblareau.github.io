@@ -19,6 +19,7 @@ email_title: Contact
 darkmode: false
 
 # Social links
+orcid_username: 0000-0003-4179-4807
 twitter_username: caleblareau
 github_username:  caleblareau
 #stackoverflow_username: "00000001"
@@ -31,12 +32,11 @@ linkedin_username: caleblareau
 #pinterest_username: jekyll
 #youtube_username: jekyll
 #googleplus_username: +jekyll
-orcid_username: 0000-0003-4179-4807
 
 # Additional icon links
 additional_links:
 - title: Google Scholar
-  icon: fab fa-google
+  icon: fab fa-graduation-cap
   url: https://scholar.google.com/citations?user=e_8eOmYAAAAJ&hl=en&inst=5746887945952177237&oi=ao
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
@@ -52,14 +52,7 @@ additional_links:
 about_title: About
 about_profile_image: images/on.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  Experience
-    * Lists
-    * Tables
-    * <a href="google.com">Links</a>
-    * Bachelor's Degree, _summa cum laude_
-     * University of Tulsa, 2011-2015
+  <mark>like this</mark>
 
 content:
   - title: Projects # Title for the section
@@ -103,12 +96,14 @@ content:
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-  - title: A Little More About Me
+  - title: In the news
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      @icn-camera try 1
+      @fa-newspaper try 2
+      @icn-newspaper try 3
+      @icon-info-circle try 4
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: false
