@@ -52,66 +52,14 @@ additional_links:
 about_title: About
 about_profile_image: images/on.jpeg
 about_content: | # this will include new lines to allow paragraphs
- I am currently a <mark>Stanford Science Fellow</mark> in the School of Medicine at Stanford University and a <mark>Parker Scholars</mark> at 
+ I am currently a Stanford Science Fellow in the School of Medicine at Stanford University and Parker Scholars at 
  the Parker Institute of Cancer Immunotherapy. My research concerns the development and application of single-cell
  technologies to inform properties of human physiology, including the somatic changes in tissues and the dynamics of 
  immune cells within the tumor microenvironment. I am particularly interested in studying and increasing the efficacy
- of immunotherapies. A complete [CV is available here](https://cap.stanford.edu/profiles/viewCV?facultyId=241457&name=Caleb_Lareau).
-
-content:
-  - title: Education
-    layout: list
-    content:
-      - layout: top-left
-        title: Doctor of Philosophy
-        sub_title: Division of Medical Sciences
-        caption: Harvard University, May 2020
-    - layout: top-left
-        title: Master of Arts
-        sub_title: Biostatistics
-        caption: Harvard University, May 2017
-    - layout: top-left
-        title: Bachelor of Science
-        sub_title: Biochemistry, Mathematics
-        caption: University of Tulsa, May 2015
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
-
-  - title: In the news
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      icon: fab fa-twitter try 1
-      
-      fab fa-twitter try 2
-      
+ and applications of immunotherapies.  My work at Stanford is supervised by Ansu Satpathy and Anshul Kundaje.
+ A complete [CV is available here](https://cap.stanford.edu/profiles/viewCV?facultyId=241457&name=Caleb_Lareau).
+ 
+ _Site is currently under construction_
 
 
 # Footer
