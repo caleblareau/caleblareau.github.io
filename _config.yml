@@ -66,22 +66,7 @@ content:
   - title: Education
     layout: list
     content:
-    - layout: topleft
-        title: Harvard University
-        sub_title: Doctoral Degree in Biomedical Sciences
-        caption: 2015-2020
-        quote: >
-           
-        description: | # this will include new lines to allow paragraphs
-           
-    - layout: topleft
-        title: Harvard University
-        sub_title: Master's Degree in Biostatistics
-        caption: 2015-2017
-        quote: >
-           
-        description: | # this will include new lines to allow paragraphs
-           
+
     - layout: topleft
         title: University of Tulsa
         sub_title: Bachelor's Degree in Biochemistry and Mathematics
