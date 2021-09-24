@@ -66,30 +66,28 @@ content:
   - title: Education
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Doctor of Philosophy, Harvard University
-        - Biomedical Sciences, 2020
-      - Master of Arts, Harvard University
-        - Biostatistics, 2017
-      - Bachelor of Science, _summa cum laude_, University of Tulsa
-        - Biochemistry and Mathematics, 2015
+      - Doctor of Philosophy, Biological and Biomedical Sciences
+        - Harvard University, 2020
+      - Master of Arts, Biostatistics 
+        - Harvard University, 2017
+      - Bachelor of Science, _summa cum laude_, Biochemistry and Mathematics
+        - University of Tulsa, 2015
 
-  - title: In the News
+  - title: Research in the News
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - [Hacking single-cell technologies to trace lineages in cancer](https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors)
-        - 10x Genomics Innovator Feature, August 2021
-      - [An expanded arsenal of single-cell methods](https://www.nature.com/articles/s41592-021-01245-w)
-        - _Nature Methods_ Research Highlights, August 2021
-      - [The 'kitchen-seq' of single-cell multiomics analyses](https://www.nature.com/articles/d41586-021-01994-w)
-        - _Nature_ Technology Feature, July 2021
-      - [How SARS-CoV-2 interacts with cells](https://www.sciencedaily.com/releases/2020/12/201221121725.htm)
-        - Science Daily Research Digest, December 2020
-      - [Purifying selection in mitochondrial disease](https://www.sciencedaily.com/releases/2020/08/200813131251.htm)
-        - Science Daily Research Digest, August 2020
-      - [Accelerating single-cell research](https://news.harvard.edu/gazette/story/2019/06/new-atac-seq-method-from-harvard-accelerates-single-cell-research/)
-        - Harvard Gazette Feature, June 2019
-      - [Unexpected mutations caused by CRISPR have a diferent explanation](https://www.forbes.com/sites/stevensalzberg/2017/07/10/crispr-gene-editing-problems-does-it-really-cause-unexpected-mutations/?sh=720f120c6a1a)
-        - Forbes Healthcare Editorial, July 2017 
+      - [Hacking single-cell technologies to trace lineages in cancer](https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors), August 2021
+        - 10x Genomics Innovator Feature
+      - [An expanded arsenal of single-cell methods](https://www.nature.com/articles/s41592-021-01245-w), August 2021
+        - _Nature Methods_ Research Highlights
+      - [The 'kitchen-seq' of single-cell multiomics analyses](https://www.nature.com/articles/d41586-021-01994-w) July 2021
+        - _Nature_ Technology Feature,
+      - [How SARS-CoV-2 interacts with cells](https://www.sciencedaily.com/releases/2020/12/201221121725.htm), December 2020
+        - Science Daily Research Digest
+      - [Accelerating single-cell research](https://news.harvard.edu/gazette/story/2019/06/new-atac-seq-method-from-harvard-accelerates-single-cell-research/), June 2019
+        - Harvard Gazette Feature
+      - [Unexpected mutations caused by CRISPR have a diferent explanation](https://www.forbes.com/sites/stevensalzberg/2017/07/10/crispr-gene-editing-problems-does-it-really-cause-unexpected-mutations/?sh=720f120c6a1a), July 2017 
+        - Forbes Healthcare Editorial
 
 # Footer
 footer_show_references: false
