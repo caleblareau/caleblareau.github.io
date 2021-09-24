@@ -67,9 +67,25 @@ content:
     layout: list
     content:
       - layout: topleft
+        title: Harvard University
+        sub_title: Doctoral Degree in Biomedical Sciences
+        caption: 2020
+        quote: >
+           
+        description: | # this will include new lines to allow paragraphs
+           
+     - layout: topleft
+        title: Harvard University
+        sub_title: Master's Degree in Biostatistics
+        caption: 2017
+        quote: >
+           
+        description: | # this will include new lines to allow paragraphs
+           
+    - layout: topleft
         title: University of Tulsa
         sub_title: Bachelor's Degree in Biochemistry and Mathematics
-        caption: 2011-2015
+        caption: 2015
         quote: >
            
         description: | # this will include new lines to allow paragraphs
@@ -77,12 +93,10 @@ content:
   - title: In the News
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - <mark>Forbes</mark> [Article here](https://www.forbes.com/sites/stevensalzberg/2017/07/10/crispr-gene-editing-problems-does-it-really-cause-unexpected-mutations/?sh=720f120c6a1a)- July 2017 - CRISPR mutations 
+      - August 2021 <mark>10x Genomics Innovator Series</mark> [Hacking single-cell technologies to trace lineages in cancer](https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors)
         - Our work refuted a claim of promiscuous editing
-      - microenvironment
-        y2k
-      - anotherone
-      a
+      - July 2017 <mark>Forbes Healthcare Editorial</mark> [Unexpected mutations caused by CRISPR have a diferent explanation](https://www.forbes.com/sites/stevensalzberg/2017/07/10/crispr-gene-editing-problems-does-it-really-cause-unexpected-mutations/?sh=720f120c6a1a)
+        - Our work refuted a claim of promiscuous editing
 
 # Footer
 footer_show_references: false
