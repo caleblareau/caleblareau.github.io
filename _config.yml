@@ -56,8 +56,10 @@ about_content: | # this will include new lines to allow paragraphs
  the Parker Institute of Cancer Immunotherapy. My research concerns the development and application of single-cell
  technologies to inform properties of human physiology, including the somatic changes in tissues and the dynamics of 
  immune cells within the tumor microenvironment. I am particularly interested in studying and increasing the efficacy
- and applications of immunotherapies.  My work at Stanford is supervised by Ansuman Satpathy and Anshul Kundaje.
- A complete [CV is available here](https://cap.stanford.edu/profiles/viewCV?facultyId=241457&name=Caleb_Lareau).
+ and applications of immunotherapies. 
+ 
+ My work at Stanford is supervised by Ansuman Satpathy and Anshul Kundaje.
+ [A complete CV is available here](https://cap.stanford.edu/profiles/viewCV?facultyId=241457&name=Caleb_Lareau).
  
 
 content:
@@ -65,20 +67,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Kitchen-seq
+        title: CRISPR Mutations
         link: https://www.forbes.com/sites/stevensalzberg/2017/07/10/crispr-gene-editing-problems-does-it-really-cause-unexpected-mutations
-        link_text: Link Text
+        link_text: 2017 July 10
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Yolo
 
 # Footer
 footer_show_references: false
