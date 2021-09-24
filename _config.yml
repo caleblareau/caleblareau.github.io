@@ -66,8 +66,7 @@ content:
   - title: Education
     layout: list
     content:
-
-    - layout: topleft
+      - layout: topleft
         title: University of Tulsa
         sub_title: Bachelor's Degree in Biochemistry and Mathematics
         caption: 2011-2015
