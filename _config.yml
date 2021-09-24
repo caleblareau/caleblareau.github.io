@@ -66,17 +66,19 @@ content:
   - title: Educaiton
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - August 2021 :: <mark>10x Genomics Innovator Series</mark> 
-        - [Hacking single-cell technologies to trace lineages in cancer](https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors)
-      - Bachelor's of Science  @icn-camera xyz
-        - [Unexpected mutations caused by CRISPR have a diferent explanation](https://www.forbes.com/sites/stevensalzberg/2017/07/10/crispr-gene-editing-problems-does-it-really-cause-unexpected-mutations/?sh=720f120c6a1a)
+      - Doctor of Philosophy, Harvard University
+        - Biomedical Sciences, 2020
+      - Master of ARts, Harvard University
+        - Biostatistics, 2017
+      - Bachelors of Science, _summa cum laude_, University of Tulsa
+        - Biochemistry and Mathematics, 2015
 
   - title: In the News
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - August 2021 :: <mark>10x Genomics Innovator Series</mark> 
+      - August 2021 <> <mark>10x Genomics Innovator Series</mark> 
         - [Hacking single-cell technologies to trace lineages in cancer](https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors)
-      - July 2017 :: <mark>Forbes Healthcare Editorial</mark> 
+      - July 2017 <> <mark>Forbes Healthcare Editorial</mark> 
         - [Unexpected mutations caused by CRISPR have a diferent explanation](https://www.forbes.com/sites/stevensalzberg/2017/07/10/crispr-gene-editing-problems-does-it-really-cause-unexpected-mutations/?sh=720f120c6a1a)
 
 # Footer
