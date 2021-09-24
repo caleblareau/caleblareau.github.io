@@ -59,14 +59,26 @@ about_content: | # this will include new lines to allow paragraphs
  and applications of immunotherapies.  My work at Stanford is supervised by Ansuman Satpathy and Anshul Kundaje.
  A complete [CV is available here](https://cap.stanford.edu/profiles/viewCV?facultyId=241457&name=Caleb_Lareau).
  
+
 content:
- - title: In the News # Title for the section
+  - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: The Kitchen-seq
         link: https://www.forbes.com/sites/stevensalzberg/2017/07/10/crispr-gene-editing-problems-does-it-really-cause-unexpected-mutations
         link_text: Link Text
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
 
 # Footer
 footer_show_references: false
