@@ -68,16 +68,16 @@ content:
     content:
       - layout: topleft
         title: University of Tulsa
-        sub_title: BSc Biochemistry and Mathematics
+        sub_title: Bachelor's Degree in Biochemistry and Mathematics
         caption: 2011-2015
         quote: >
-          Short institution or course description (optional)
+           
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+           
   - title: In the News
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - <mark>2017 July</mark> | CRISPR mutations 
+      - <mark>[Forbes](https://www.forbes.com/sites/stevensalzberg/2017/07/10/crispr-gene-editing-problems-does-it-really-cause-unexpected-mutations/?sh=720f120c6a1a)</mark> - July 2017 - CRISPR mutations 
         - Our work refuted a claim of promiscuous editing
       - microenvironment
         y2k
