@@ -66,8 +66,8 @@ content:
   - title: Research in the News
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - CRISPR mutations 
-        xyz
+      - [2017 July 17] CRISPR mutations 
+        - Our work refuted a claim of promiscuous editing
       - microenvironment
         y2k
       - anotherone
