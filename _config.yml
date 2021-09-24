@@ -63,15 +63,16 @@ about_content: | # this will include new lines to allow paragraphs
  
 
 content:
-  - title: Projects # Title for the section
+  - title: Research the News # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: CRISPR Mutations
         link: https://www.forbes.com/sites/stevensalzberg/2017/07/10/crispr-gene-editing-problems-does-it-really-cause-unexpected-mutations
-        link_text: 2017 July 10
+        link_text: Coverage of CRISPR editing controversy
         additional_links:
         quote: >
+            2017 July 10
         description: | # this will include new lines to allow paragraphs
           Yolo
 
