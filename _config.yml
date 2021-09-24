@@ -77,7 +77,7 @@ content:
   - title: In the News
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - <mark>[Forbes](https://www.forbes.com/sites/stevensalzberg/2017/07/10/crispr-gene-editing-problems-does-it-really-cause-unexpected-mutations/?sh=720f120c6a1a)</mark> - July 2017 - CRISPR mutations 
+      - <mark>Forbes</mark> [Article here](https://www.forbes.com/sites/stevensalzberg/2017/07/10/crispr-gene-editing-problems-does-it-really-cause-unexpected-mutations/?sh=720f120c6a1a)- July 2017 - CRISPR mutations 
         - Our work refuted a claim of promiscuous editing
       - microenvironment
         y2k
