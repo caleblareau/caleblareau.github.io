@@ -63,12 +63,6 @@ about_content: | # this will include new lines to allow paragraphs
  
 
 content:
-   - title: Honors and Awards
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - Another one
-      - [Sir Alexander Fleming Scholar](https://omrf.org/2011/03/21/omrf-names-15-state-students-fleming-scholars/), Oklahoma Medical Research Foundation, 2011
-
   - title: Education
     layout: text
     content: | # this will include new lines to allow paragraphs
