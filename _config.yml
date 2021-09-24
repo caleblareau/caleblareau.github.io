@@ -85,7 +85,7 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           I completed my graduate studies at Harvard Medical School, where I earned my PhD in the Division of Medicine Sciences. 
-  - layout: top-left
+      - layout: top-left
         title: University of Tulsa
         sub_title: Undergraduate Student
         caption: August 2011-May 2015
