@@ -78,9 +78,9 @@ content:
     content: | # this will include new lines to allow paragraphs
       - [Hacking single-cell technologies to trace lineages in cancer](https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors), August 2021
         - 10x Genomics Innovator Feature
-      - [An expanded arsenal of single-cell methods](https://www.nature.com/articles/s41592-021-01245-w), August 2021
+      - [An expanded arsenal of single-cell methods](https://www.nature.com/articles/s41592-021-01245-w), <mark>August 2021</mark>
         - _Nature Methods_ Research Highlights
-      - [The 'kitchen-seq' of single-cell multiomics analyses](https://www.nature.com/articles/d41586-021-01994-w) July 2021
+      - [The 'kitchen-seq' of single-cell multiomics analyses](https://www.nature.com/articles/d41586-021-01994-w), <mark>July 2021</mark>
         - _Nature_ Technology Feature,
       - [How SARS-CoV-2 interacts with cells](https://www.sciencedaily.com/releases/2020/12/201221121725.htm), December 2020
         - Science Daily Research Digest
