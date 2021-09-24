@@ -64,15 +64,6 @@ about_content: | # this will include new lines to allow paragraphs
  
 
 content:
-  - title: Ho
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - Doctor of Philosophy, Biological and Biomedical Sciences
-        - Harvard University, 2020
-      - Master of Arts, Biostatistics 
-        - Harvard University, 2017
-      - Bachelor of Science, _summa cum laude_, Biochemistry and Mathematics
-        - University of Tulsa, 2015
   - title: Experience
     layout: list
     content:
@@ -94,6 +85,26 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           I completed my graduate studies at Harvard Medical School, where I earned my PhD in the Division of Medicine Sciences. 
+  - layout: top-left
+        title: University of Tulsa
+        sub_title: Undergraduate Student
+        caption: August 2011-May 2015
+        link: 
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          I completed my undergraduate education. 
+
+  - title: Honors and Awards
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - [Parker Scholar](https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors), Parker Institute for Cancer Immuno
+      - [An expanded arsenal of single-cell methods](https://www.nature.com/articles/s41592-021-01245-w)
+      - [The 'kitchen-seq' of single-cell multiomics analyses](https://www.nature.com/articles/d41586-021-01994-w)
+      - [How SARS-CoV-2 interacts with cells](https://www.sciencedaily.com/releases/2020/12/201221121725.htm)
+      - [Accelerating single-cell research](https://news.harvard.edu/gazette/story/2019/06/new-atac-seq-method-from-harvard-accelerates-single-cell-research/)
+      - [Unexpected mutations caused by CRISPR have a diferent explanation](https://www.forbes.com/sites/stevensalzberg/2017/07/10/crispr-gene-editing-problems-does-it-really-cause-unexpected-mutations/?sh=720f120c6a1a)
+
 
   - title: Research in the News
     layout: text
@@ -110,6 +121,9 @@ content:
         - _Harvard Gazette_, June 2019
       - [Unexpected mutations caused by CRISPR have a diferent explanation](https://www.forbes.com/sites/stevensalzberg/2017/07/10/crispr-gene-editing-problems-does-it-really-cause-unexpected-mutations/?sh=720f120c6a1a)
         - _Forbes_, July 2017
+
+
+
 
 # Footer
 footer_show_references: false
