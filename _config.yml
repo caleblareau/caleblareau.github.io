@@ -63,23 +63,39 @@ about_content: | # this will include new lines to allow paragraphs
  
 
 content:
-  - title: Educaiton
+   - title: Honors and Awards
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Another one
+      - [Sir Alexander Fleming Scholar](https://omrf.org/2011/03/21/omrf-names-15-state-students-fleming-scholars/), Oklahoma Medical Research Foundation, 2011
+
+  - title: Education
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Doctor of Philosophy, Harvard University
         - Biomedical Sciences, 2020
-      - Master of ARts, Harvard University
+      - Master of Arts, Harvard University
         - Biostatistics, 2017
-      - Bachelors of Science, _summa cum laude_, University of Tulsa
+      - Bachelor of Science, _summa cum laude_, University of Tulsa
         - Biochemistry and Mathematics, 2015
 
   - title: In the News
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - August 2021 <> <mark>10x Genomics Innovator Series</mark> 
-        - [Hacking single-cell technologies to trace lineages in cancer](https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors)
-      - July 2017 <> <mark>Forbes Healthcare Editorial</mark> 
-        - [Unexpected mutations caused by CRISPR have a diferent explanation](https://www.forbes.com/sites/stevensalzberg/2017/07/10/crispr-gene-editing-problems-does-it-really-cause-unexpected-mutations/?sh=720f120c6a1a)
+      - [Hacking single-cell technologies to trace lineages in cancer](https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors)
+        - 10x Genomics Innovator Feature, August 2021
+      - [An expanded arsenal of single-cell methods](https://www.nature.com/articles/s41592-021-01245-w)
+        - _Nature Methods_ Research Highlights, August 2021
+      - [The 'kitchen-seq' of single-cell multiomics analyses](https://www.nature.com/articles/d41586-021-01994-w)
+        - _Nature_ Technology Feature, July 2021
+      - [How SARS-CoV-2 interacts with cells](https://www.sciencedaily.com/releases/2020/12/201221121725.htm)
+        - Science Daily Research Digest, December 2020
+      - [Purifying selection in mitochondrial disease](https://www.sciencedaily.com/releases/2020/08/200813131251.htm)
+        - Science Daily Research Digest, August 2020
+      - [Accelerating single-cell research](https://news.harvard.edu/gazette/story/2019/06/new-atac-seq-method-from-harvard-accelerates-single-cell-research/)
+        - Harvard Gazette Feature, June 2019
+      - [Unexpected mutations caused by CRISPR have a diferent explanation](https://www.forbes.com/sites/stevensalzberg/2017/07/10/crispr-gene-editing-problems-does-it-really-cause-unexpected-mutations/?sh=720f120c6a1a)
+        - Forbes Healthcare Editorial, July 2017 
 
 # Footer
 footer_show_references: false
