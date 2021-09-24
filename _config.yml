@@ -60,18 +60,13 @@ about_content: | # this will include new lines to allow paragraphs
  A complete [CV is available here](https://cap.stanford.edu/profiles/viewCV?facultyId=241457&name=Caleb_Lareau).
  
 content:
-  - title: In the news
-    layout: list
+ - title: In the News # Title for the section
+    layout: list # Type of content section (list/text)
     content:
-      - layout: top-left
-        title: Doctor of Philosophy
-        sub_title: Division of Medical Sciences
-    - layout: top-left
-        title: Master of Arts
-        sub_title: Biostatistics
-    - layout: top-left
-        title: Bachelor of Science
-        sub_title: Biochemistry, Mathematics
+      - layout: left
+        title: The Kitchen-seq
+        link: https://www.forbes.com/sites/stevensalzberg/2017/07/10/crispr-gene-editing-problems-does-it-really-cause-unexpected-mutations
+        link_text: Link Text
 
 # Footer
 footer_show_references: false
