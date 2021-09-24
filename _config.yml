@@ -52,8 +52,9 @@ additional_links:
 about_title: About
 about_profile_image: images/on2.png
 about_content: | # this will include new lines to allow paragraphs
- I am currently a Stanford Science Fellow in the School of Medicine at Stanford University and Parker Scholar at 
- the Parker Institute of Cancer Immunotherapy. My research concerns the development and application of single-cell
+ I am currently a [Stanford Science Fellow](https://stanfordsciencefellows.stanford.edu/meet-fellows)
+ in the School of Medicine at Stanford University and [Parker Scholar](https://www.parkerici.org/the-latest/funding-the-future-of-cancer-research-the-parker-institute-for-cancer-immunotherapy-awards-nearly-3-million-to-six-early-career-researchers/) 
+ at the Parker Institute of Cancer Immunotherapy. My research concerns the development and application of single-cell
  technologies to inform properties of human physiology, including the somatic changes in tissues and the dynamics of 
  immune cells within the complex tissues such as humans.
  
@@ -76,39 +77,39 @@ content:
     layout: list
     content:
       - layout: top-left
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Stanford University
+        sub_title: Research Fellow
+        caption: July 2020 - Present
+        link: 
         quote: >
-          Short description of the company (optional)
+          
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          I currently hold an appointment in the Department of Pathology and the Department of Genetics at Stanford University School of Medicine
       - layout: top-left
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Harvard University
+        sub_title: PhD Student
+        caption: August 2015-June 2020
+        link: 
         quote: >
-          Short description of the company (optional)
+          
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          I completed my graduate studies at Harvard Medical School, where I earned my PhD in the Division of Medicine Sciences. 
 
   - title: Research in the News
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - [Hacking single-cell technologies to trace lineages in cancer](https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors), <mark>August 2021</mark> 
-        - 10x Genomics Innovator Feature
-      - [An expanded arsenal of single-cell methods](https://www.nature.com/articles/s41592-021-01245-w), <mark>August 2021</mark>
-        - _Nature Methods_ Research Highlights
-      - [The 'kitchen-seq' of single-cell multiomics analyses](https://www.nature.com/articles/d41586-021-01994-w), <mark>July 2021</mark>
-        - _Nature_ Technology Feature,
-      - [How SARS-CoV-2 interacts with cells](https://www.sciencedaily.com/releases/2020/12/201221121725.htm), <mark>December 2020</mark> 
-        - Science Daily Research Digest
-      - [Accelerating single-cell research](https://news.harvard.edu/gazette/story/2019/06/new-atac-seq-method-from-harvard-accelerates-single-cell-research/), <mark>June 2019</mark> 
-        - Harvard Gazette Feature
-      - [Unexpected mutations caused by CRISPR have a diferent explanation](https://www.forbes.com/sites/stevensalzberg/2017/07/10/crispr-gene-editing-problems-does-it-really-cause-unexpected-mutations/?sh=720f120c6a1a), <mark>July 2017</mark> 
-        - Forbes Healthcare Editorial
+      - [Hacking single-cell technologies to trace lineages in cancer](https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors)
+        - 10x Genomics Innovator Feature, _August 2021_
+      - [An expanded arsenal of single-cell methods](https://www.nature.com/articles/s41592-021-01245-w)
+        - _Nature Methods_, August 2021
+      - [The 'kitchen-seq' of single-cell multiomics analyses](https://www.nature.com/articles/d41586-021-01994-w)
+        - _Nature_, July 2021
+      - [How SARS-CoV-2 interacts with cells](https://www.sciencedaily.com/releases/2020/12/201221121725.htm)
+        - _Science Daily_, December 2020
+      - [Accelerating single-cell research](https://news.harvard.edu/gazette/story/2019/06/new-atac-seq-method-from-harvard-accelerates-single-cell-research/)
+        - _Harvard Gazette_, June 2019
+      - [Unexpected mutations caused by CRISPR have a diferent explanation](https://www.forbes.com/sites/stevensalzberg/2017/07/10/crispr-gene-editing-problems-does-it-really-cause-unexpected-mutations/?sh=720f120c6a1a)
+        - _Forbes_, July 2017
 
 # Footer
 footer_show_references: false
