@@ -54,17 +54,20 @@ about_profile_image: images/on2.png
 about_content: | # this will include new lines to allow paragraphs
  I am currently a [Stanford Science Fellow](https://stanfordsciencefellows.stanford.edu/meet-fellows)
  in the School of Medicine at Stanford University and [Parker Scholar](https://www.parkerici.org/the-latest/funding-the-future-of-cancer-research-the-parker-institute-for-cancer-immunotherapy-awards-nearly-3-million-to-six-early-career-researchers/) 
- at the Parker Institute of Cancer Immunotherapy. My research concerns the development and application of genomics
+ at the Parker Institute of Cancer Immunotherapy.
+ 
+ 
+ My research concerns the development and application of genomics
  technologies to inform properties of human physiology, including the somatic changes in tissues and the dynamics of 
- immune cells within the complex tissues such as humans.
-
-
+ immune cells within the complex human tissues, including tumors. These highly-collaborative works have recently been highlighted by
+ [_Nature_](pdfs/nature-singlecell-multiomics-analysis.pdf), [_Nature Methods_](pdfs/naturemethods-dogma.pdf), and the [10x Genomics _Innovator Series_](https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors)
  
  
- My work at Stanford is mentored by [Ansuman Satpathy](https://satpathylab.com/lab/) and
+ My current work at Stanford is mentored by [Ansuman Satpathy](https://satpathylab.com/lab/) and
  [Anshul Kundaje](https://sites.google.com/site/anshulkundaje/students)
  in the Departments of Pathology and Genetics at the School of Medicine. 
  [A complete CV is available here](https://cap.stanford.edu/profiles/viewCV?facultyId=241457&name=Caleb_Lareau).
+ 
  
 
 content:
@@ -79,7 +82,10 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          I currently hold an appointment in the Department of Pathology and the Department of Genetics at Stanford University School of Medicine
+          I currently hold appointments in the Department of Pathology and the Department of Genetics at Stanford University School of Medicine. As part of the 
+          inaugrual class of [Stanford Science Fellows](https://stanfordsciencefellows.stanford.edu/meet-fellows), I lead a semi-independent research program supported
+          by funding from the [Parker Institute for Cancer Immunotherapy](https://www.prnewswire.com/news-releases/funding-the-future-of-cancer-research-the-parker-institute-for-cancer-immunotherapy-awards-nearly-3-million-to-six-early-career-researchers-301238626.html),
+          the National Human Genome Research Institute, and Stanford University
       - layout: top-left
         title: Harvard University
         sub_title: Graduate Student
@@ -88,7 +94,20 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          I completed my graduate studies at Harvard Medical School, where I earned my PhD in the Division of Medicine Sciences. 
+          I completed my graduate studies at Harvard Medical School, where I earned my PhD in the Division of Medicine Sciences. [My dissertation](https://dash.harvard.edu/handle/1/37365912)
+          
+      - layout: top-left
+        title: University of Tulsa
+        sub_title: Visiting Scholar
+        caption: May 2013-August 2014
+        link: 
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          For two summers during my undergraduate training, I completed research projects at the Max Planck Institute for Psychiatry in Munich Germany. My work was 
+          supported by a [Deutscher Akademischer Austauschdienst RISE Fellowship](https://engineering.utulsa.edu/lareau-research/). Here, I investigated the longitudinal 
+          response of 
+
       - layout: top-left
         title: University of Tulsa
         sub_title: Undergraduate Student
@@ -97,17 +116,18 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          I completed my undergraduate education. 
+          I completed my undergraduate education at
 
   - title: Honors and Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - [Parker Scholar](https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors), Parker Institute for Cancer Immuno
+      - [Parker Scholar](https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors), Parker Institute for Cancer Immunotherapy, 2021
       - [An expanded arsenal of single-cell methods](https://www.nature.com/articles/s41592-021-01245-w)
       - [The 'kitchen-seq' of single-cell multiomics analyses](https://www.nature.com/articles/d41586-021-01994-w)
-      - [How SARS-CoV-2 interacts with cells](https://www.sciencedaily.com/releases/2020/12/201221121725.htm)
-      - [Accelerating single-cell research](https://news.harvard.edu/gazette/story/2019/06/new-atac-seq-method-from-harvard-accelerates-single-cell-research/)
-      - [Unexpected mutations caused by CRISPR have a diferent explanation](https://www.forbes.com/sites/stevensalzberg/2017/07/10/crispr-gene-editing-problems-does-it-really-cause-unexpected-mutations/?sh=720f120c6a1a)
+      - [Jess Chouteau Outstanding Senior](https://utulsa.edu/tu-recognizes-student-achievement/), University of Tulsa, 2014
+      - [RISE Fellowship](https://engineering.utulsa.edu/lareau-research/), Deutscher Akademischer Austauschdienst, 2013, 2014
+      - [Presidential Scholarship](https://admission.utulsa.edu/interdisciplinary-programs/presidential-scholars), University of Tulsa, 2011
+      - [Sir Alexander Fleming Scholarship](https://omrf.org/2011/03/21/omrf-names-15-state-students-fleming-scholars/), Oklahoma Medical Research Foundation, 2011
 
 
   - title: In the News
@@ -115,9 +135,9 @@ content:
     content: | # this will include new lines to allow paragraphs
       - [Hacking single-cell technologies to trace lineages in cancer](https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors)
         - 10x Genomics Innovator Feature, _August 2021_
-      - [An expanded arsenal of single-cell methods via DOGMA-seq](https://www.nature.com/articles/s41592-021-01245-w)
+      - [An expanded arsenal of single-cell methods via DOGMA-seq](pdfs/naturemethods-dogma.pdf)
         - _Nature Methods_, August 2021
-      - [The 'kitchen-seq' of single-cell multiomics analyses](https://www.nature.com/articles/d41586-021-01994-w)
+      - [The 'kitchen-seq' of single-cell multiomics analyses](pdfs/nature-singlecell-multiomics-analysis.pdf)
         - _Nature_, July 2021
       - [A comprehensive map of how the SARS-CoV-2 RNA interacts with cells](https://www.sciencedaily.com/releases/2020/12/201221121725.htm)
         - _Science Daily_, December 2020
