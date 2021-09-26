@@ -86,7 +86,7 @@ content:
           I currently hold appointments in the Department of Pathology and the Department of Genetics at Stanford University School of Medicine. As part of the 
           inaugrual class of [Stanford Science Fellows](https://stanfordsciencefellows.stanford.edu/meet-fellows), I lead a semi-independent research program to study fundamental attributes of human tissues in health and disease. My research is supported
           by funding from the [Parker Institute for Cancer Immunotherapy](https://www.prnewswire.com/news-releases/funding-the-future-of-cancer-research-the-parker-institute-for-cancer-immunotherapy-awards-nearly-3-million-to-six-early-career-researchers-301238626.html),
-          the National Human Genome Research Institute, and Stanford Medical School. 
+          and Stanford Medical School. 
           
       - layout: top-left
         title: Harvard University
@@ -127,7 +127,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - [Parker Scholar](https://www.prnewswire.com/news-releases/funding-the-future-of-cancer-research-the-parker-institute-for-cancer-immunotherapy-awards-nearly-3-million-to-six-early-career-researchers-301238626.html), Parker Institute for Cancer Immunotherapy, 2021
-      - Stanford Science Fellow](https://stanfordsciencefellows.stanford.edu/meet-fellows), Stanford University, 2020
+      - [Stanford Science Fellow](https://stanfordsciencefellows.stanford.edu/meet-fellows), Stanford University, 2020
       - [Ruth L. Kirschstein National Research Service Award)](https://grantome.com/grant/NIH/F31-CA232670-01), National Cancer Institute, 2018
       - [Graduate Research Fellowship](https://utulsa.edu/tu-students-alumni-honored-nsf-fellowships/), National Science Foundation, 2015
       - [Robertson Most Outstanding Senior](https://pikes.org/foundation/forstudents/therobertsonaward/), Pi Kappa Alpha, 2015
