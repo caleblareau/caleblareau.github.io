@@ -57,13 +57,14 @@ about_content: | # this will include new lines to allow paragraphs
  at the Parker Institute of Cancer Immunotherapy.
  
  
- My research concerns the development and application of genomics
- technologies to inform properties of human physiology, including the somatic changes in tissues and the dynamics of 
- immune cells within the complex human tissues, including tumors. These highly-collaborative works have recently been highlighted by
- [_Nature_](pdfs/nature-singlecell-multiomics-analysis.pdf), [_Nature Methods_](pdfs/naturemethods-dogma.pdf), and the [10x Genomics _Innovator Series_](https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors)
+ My research concerns the development and application of genomics technologies to inform properties of human physiology, including the somatic changes that occur in our cells as we age. 
+ In particular, I am interested in studying the earliest events of tumor initiation (pre-malignant clonal expansions) and the 
+ immune cells within these tissues and tumors that permit the seeding of the tumor. These highly-collaborative works have recently been highlighted by
+ [_Nature_](pdfs/nature-singlecell-multiomics-analysis.pdf), [_Nature Methods_](pdfs/naturemethods-dogma.pdf), and the
+ [10x Genomics _Innovator Series_](https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors).
  
  
- My current work at Stanford is mentored by [Ansuman Satpathy](https://satpathylab.com/lab/) and
+ My research at Stanford is mentored by [Ansuman Satpathy](https://satpathylab.com/lab/) and
  [Anshul Kundaje](https://sites.google.com/site/anshulkundaje/students)
  in the Departments of Pathology and Genetics at the School of Medicine. 
  [A complete CV is available here](https://cap.stanford.edu/profiles/viewCV?facultyId=241457&name=Caleb_Lareau).
@@ -83,9 +84,10 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           I currently hold appointments in the Department of Pathology and the Department of Genetics at Stanford University School of Medicine. As part of the 
-          inaugrual class of [Stanford Science Fellows](https://stanfordsciencefellows.stanford.edu/meet-fellows), I lead a semi-independent research program supported
+          inaugrual class of [Stanford Science Fellows](https://stanfordsciencefellows.stanford.edu/meet-fellows), I lead a semi-independent research program to study fundamental attributes of human tissues in health and disease. My research is supported
           by funding from the [Parker Institute for Cancer Immunotherapy](https://www.prnewswire.com/news-releases/funding-the-future-of-cancer-research-the-parker-institute-for-cancer-immunotherapy-awards-nearly-3-million-to-six-early-career-researchers-301238626.html),
-          the National Human Genome Research Institute, and Stanford University
+          the National Human Genome Research Institute, and Stanford Medical School. 
+          
       - layout: top-left
         title: Harvard University
         sub_title: Graduate Student
@@ -95,18 +97,20 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           I completed my graduate studies at Harvard Medical School, where I earned my PhD in the Division of Medicine Sciences. [My dissertation](https://dash.harvard.edu/handle/1/37365912)
+          focusd on the development of new single-cell methods and technologies, particular the development of an approach to trace clonal lineages in human cells via
+          somatic mtDNA mutations. My time at Harvard was split between the Broad Institute, Boston Children's Hospital, and Dana Farber Cancer Institute. 
           
       - layout: top-left
-        title: University of Tulsa
+        title: Max Planck Institute
         sub_title: Visiting Scholar
         caption: May 2013-August 2014
         link: 
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          For two summers during my undergraduate training, I completed research projects at the Max Planck Institute for Psychiatry in Munich Germany. My work was 
-          supported by a [Deutscher Akademischer Austauschdienst RISE Fellowship](https://engineering.utulsa.edu/lareau-research/). Here, I investigated the longitudinal 
-          response of 
+          For two summers during my undergraduate training, I completed research projects at the [Max Planck Institute for Psychiatry](https://www.psych.mpg.de/en) in Munich Germany, which was 
+          supported by a [Deutscher Akademischer Austauschdienst RISE Fellowship](https://engineering.utulsa.edu/lareau-research/). Here, I examined potential biomarkers in the blood
+          that were associated with patient outcomes in response to deep brain stimulation, an investigative new therapy for treatment-resistant depression. 
 
       - layout: top-left
         title: University of Tulsa
@@ -116,15 +120,18 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          I completed my undergraduate education at
-
+          I completed my undergraduate education at the University of Tulsa where I graduate _summa cum laude_ with a BSc in Biochemistry and Mathematics. Here,
+          I performed research in the _in silico_ Research Group, establishing computational methods for the network modeling of human genetic variation data. 
+          
   - title: Honors and Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - [Parker Scholar](https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors), Parker Institute for Cancer Immunotherapy, 2021
-      - [An expanded arsenal of single-cell methods](https://www.nature.com/articles/s41592-021-01245-w)
-      - [Ruth L. Kirschstein National Research Service Award Individual Predoctoral Fellowship (F31)](https://grantome.com/grant/NIH/F31-CA232670-01), National Cancer Institute, 2018
+      - [Parker Scholar](https://www.prnewswire.com/news-releases/funding-the-future-of-cancer-research-the-parker-institute-for-cancer-immunotherapy-awards-nearly-3-million-to-six-early-career-researchers-301238626.html), Parker Institute for Cancer Immunotherapy, 2021
+      - Stanford Science Fellow](https://stanfordsciencefellows.stanford.edu/meet-fellows), Stanford University, 2020
+      - [Ruth L. Kirschstein National Research Service Award)](https://grantome.com/grant/NIH/F31-CA232670-01), National Cancer Institute, 2018
       - [Graduate Research Fellowship](https://utulsa.edu/tu-students-alumni-honored-nsf-fellowships/), National Science Foundation, 2015
+      - [Robertson Most Outstanding Senior](https://pikes.org/foundation/forstudents/therobertsonaward/), Pi Kappa Alpha, 2015
+      - [Walter and Adelheid Hohenstein Fellowship](https://engineering.utulsa.edu/alumnus-awarded-phi-kappa-phi-fellowship/), Phi Kappa Phi, 2015
       - [Jess Chouteau Outstanding Senior](https://utulsa.edu/tu-recognizes-student-achievement/), University of Tulsa, 2014
       - [Goldwater Scholar](https://goldwaterscholarship.gov/2013-scholars/), Barry M. Goldwater Foundation, 2013
       - [RISE Fellow](https://engineering.utulsa.edu/lareau-research/), Deutscher Akademischer Austauschdienst, 2013, 2014
@@ -136,7 +143,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - [Hacking single-cell technologies to trace lineages in cancer](https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors)
-        - 10x Genomics Innovator Feature, _August 2021_
+        - 10x Genomics Innovator Series, August 2021
       - [An expanded arsenal of single-cell methods via DOGMA-seq](pdfs/naturemethods-dogma.pdf)
         - _Nature Methods_, August 2021
       - [The 'kitchen-seq' of single-cell multiomics analyses](pdfs/nature-singlecell-multiomics-analysis.pdf)
