@@ -62,14 +62,7 @@ about_content: | # this will include new lines to allow paragraphs
  immune cells within these tissues and tumors. My highly-collaborative research has recently been highlighted by
  [_Nature_](pdfs/nature-singlecell-multiomics-analysis.pdf), [_Nature Methods_](pdfs/naturemethods-dogma.pdf), and the
  [10x Genomics _Innovator Series_](https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors).
- 
- 
- Currently, my research at Stanford is mentored by [Ansuman Satpathy](https://satpathylab.com/lab/) and
- [Anshul Kundaje](https://sites.google.com/site/anshulkundaje/students)
- in the Departments of Pathology and Genetics at the School of Medicine. 
- [A complete CV is available here](https://cap.stanford.edu/profiles/viewCV?facultyId=241457&name=Caleb_Lareau).
- 
- 
+
 
 content:
   - title: Experience
@@ -122,39 +115,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           I completed my undergraduate education at the University of Tulsa where I graduate _summa cum laude_ with a BSc in Biochemistry and Mathematics. Here,
           I performed research in the _in silico_ Research Group, establishing computational methods for the network modeling of human genetic variation data. 
-          
-  - title: Honors and Awards
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - [Parker Scholar](https://www.prnewswire.com/news-releases/funding-the-future-of-cancer-research-the-parker-institute-for-cancer-immunotherapy-awards-nearly-3-million-to-six-early-career-researchers-301238626.html), Parker Institute for Cancer Immunotherapy, 2021
-      - [Stanford Science Fellow](https://stanfordsciencefellows.stanford.edu/meet-fellows), Stanford University, 2020
-      - [Ruth L. Kirschstein National Research Service Award (NCI F31)](https://grantome.com/grant/NIH/F31-CA232670-01), National Cancer Institute, 2018
-      - [Graduate Research Fellowship](https://utulsa.edu/tu-students-alumni-honored-nsf-fellowships/), National Science Foundation, 2015
-      - [Robertson Most Outstanding Senior](https://pikes.org/foundation/forstudents/therobertsonaward/), Pi Kappa Alpha, 2015
-      - [Walter and Adelheid Hohenstein Fellowship](https://engineering.utulsa.edu/alumnus-awarded-phi-kappa-phi-fellowship/), Phi Kappa Phi, 2015
-      - [Jess Chouteau Outstanding Senior](https://utulsa.edu/tu-recognizes-student-achievement/), University of Tulsa, 2014
-      - [Goldwater Scholar](https://goldwaterscholarship.gov/2013-scholars/), Barry M. Goldwater Foundation, 2013
-      - [RISE Fellow](https://engineering.utulsa.edu/lareau-research/), Deutscher Akademischer Austauschdienst, 2013, 2014
-      - [Presidential Scholar](https://admission.utulsa.edu/interdisciplinary-programs/presidential-scholars), University of Tulsa, 2011
-      - [Sir Alexander Fleming Scholar](https://omrf.org/2011/03/21/omrf-names-15-state-students-fleming-scholars/), Oklahoma Medical Research Foundation, 2011
-
-
-  - title: In the News
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - [Hacking single-cell technologies to trace lineages in cancer](https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors)
-        - 10x Genomics Innovator Series, August 2021
-      - [An expanded arsenal of single-cell methods via DOGMA-seq](pdfs/naturemethods-dogma.pdf)
-        - _Nature Methods_, August 2021
-      - [The 'kitchen-seq' of single-cell multiomics analyses](pdfs/nature-singlecell-multiomics-analysis.pdf)
-        - _Nature_, July 2021
-      - [A comprehensive map of how the SARS-CoV-2 RNA interacts with cells](https://www.sciencedaily.com/releases/2020/12/201221121725.htm)
-        - _Science Daily_, December 2020
-      - [Accelerating single-cell research via droplet microfluidics](https://news.harvard.edu/gazette/story/2019/06/new-atac-seq-method-from-harvard-accelerates-single-cell-research/)
-        - _Harvard Gazette_, June 2019
-      - [Unexpected mutations caused by CRISPR have a different explanation](https://www.forbes.com/sites/stevensalzberg/2017/07/10/crispr-gene-editing-problems-does-it-really-cause-unexpected-mutations/?sh=720f120c6a1a)
-        - _Forbes_, July 2017
-
 
 
 
